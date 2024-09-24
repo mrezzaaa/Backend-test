@@ -36,7 +36,8 @@ pytest tests/
 ## Test Results
 ![Test Results](screenshot.png)
 
-
+## Profiling 
+![Profiling](profiling.png)
 ## Authors
 Muhammad Reza Maulana  
 [mrezzaaa](https://linkedin.com/in/mrezzaaa)
